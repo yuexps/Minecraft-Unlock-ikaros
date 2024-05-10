@@ -2,7 +2,7 @@
 <strong><h2>Minecraft Unlock</h2></strong>
 Minecraft for Windows 解锁脚本
  
- 下载可执行程序：https://github.com/yuexps/Minecraft-Unlock-ikaros/releases
+ 下载：<a href="https://github.com/yuexps/Minecraft-Unlock-ikaros/releases">可执行程序</a>
 </p>
 
 ### 注意
