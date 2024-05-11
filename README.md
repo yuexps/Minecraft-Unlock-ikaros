@@ -18,6 +18,6 @@ Minecraft for Windows 解锁脚本
  
  -Minecraft官网：https://minecraft.net
 ### 最后
- 此解锁方法参考https://github.com/Xing-Fax/Minecraft-Unlock
+ 此解锁方法参考<a href="https://github.com/Xing-Fax/Minecraft-Unlock">Minecraft-Unlock</a>
  
  本程序遵循GPL ( GNU General Public License )开源许可协议，程序仅供学习交流，严禁商用或其他非法用途！
