@@ -1,6 +1,6 @@
 <p>
-<strong><h2>Minecraft Unlock</h2></strong>
-Minecraft for Windows 解锁脚本
+<strong><h2>Minecraft Unlock ikaros</h2></strong>
+Minecraft for Windows 解锁 Python脚本
  
  下载：<a href="https://github.com/yuexps/Minecraft-Unlock-ikaros/releases">可执行程序</a>
 </p>
