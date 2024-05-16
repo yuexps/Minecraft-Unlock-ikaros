@@ -94,11 +94,11 @@ def welcome():
 
     time.sleep(3)
     elua = input("你是否已了解并同意上述条款？y/n: ")
-    if elua == 'n':
-        sys.exit()
-    else:
+    if elua == 'y':
         time.sleep(1)
         print("开始处理...")
+    else:
+        sys.exit()
 
 welcome()
 
